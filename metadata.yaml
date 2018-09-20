@@ -1,5 +1,8 @@
 _repo: Out-and-About-London_53155
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53155-h/images/cover.jpg
 creator:
   author:
     agent_name: Burke, Thomas
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/839
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Burke_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53155#Out-and-About-London
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
